@@ -1,3 +1,13 @@
+/*----------------------------------------------------------------------------------*/
+/*   FATEC-São Caetano do Sul                 Estrutura de Dados                    */
+/*                         Id da Atividade: B1-Atividade 5                          */
+/*             Objetivo: <<  troca da estrutura de lista ligada para pilha  >>      */
+/*                                                                                  */
+/*                                  Autor: Joaquim diglio                           */
+/*                                                                   Data:01/04/2025*/
+/*----------------------------------------------------------------------------------*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
